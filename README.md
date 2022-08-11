@@ -8,7 +8,7 @@ Server:
 ```
 $ cd server
 $ npm install
-$npm run serve
+$ npm start
 ```
 
 Open Apollo on port http://localhost:4000
